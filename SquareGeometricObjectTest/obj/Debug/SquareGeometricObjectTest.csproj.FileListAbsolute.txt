@@ -1,0 +1,16 @@
+C:\Users\A.Tikhonov\Desktop\geometry\LibraryGeometricObject\SquareGeometricObjectTest\obj\Debug\SquareGeometricObjectTest.csprojResolveAssemblyReference.cache
+C:\Users\A.Tikhonov\Desktop\geometry\LibraryGeometricObject\SquareGeometricObjectTest\bin\Debug\SquareGeometricObjectTest.dll
+C:\Users\A.Tikhonov\Desktop\geometry\LibraryGeometricObject\SquareGeometricObjectTest\bin\Debug\SquareGeometricObjectTest.pdb
+C:\Users\A.Tikhonov\Desktop\geometry\LibraryGeometricObject\SquareGeometricObjectTest\bin\Debug\GeometricObject.dll
+C:\Users\A.Tikhonov\Desktop\geometry\LibraryGeometricObject\SquareGeometricObjectTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\A.Tikhonov\Desktop\geometry\LibraryGeometricObject\SquareGeometricObjectTest\bin\Debug\GeometricObject.pdb
+C:\Users\A.Tikhonov\Desktop\geometry\LibraryGeometricObject\SquareGeometricObjectTest\obj\Debug\SquareGeometricObjectTest.dll
+C:\Users\A.Tikhonov\Desktop\geometry\LibraryGeometricObject\SquareGeometricObjectTest\obj\Debug\SquareGeometricObjectTest.pdb
+C:\Users\A.Tikhonov\Desktop\geometry\geometry\LibraryGeometricObject\SquareGeometricObjectTest\bin\Debug\SquareGeometricObjectTest.dll
+C:\Users\A.Tikhonov\Desktop\geometry\geometry\LibraryGeometricObject\SquareGeometricObjectTest\bin\Debug\SquareGeometricObjectTest.pdb
+C:\Users\A.Tikhonov\Desktop\geometry\geometry\LibraryGeometricObject\SquareGeometricObjectTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\A.Tikhonov\Desktop\geometry\geometry\LibraryGeometricObject\SquareGeometricObjectTest\obj\Debug\SquareGeometricObjectTest.csprojResolveAssemblyReference.cache
+C:\Users\A.Tikhonov\Desktop\geometry\geometry\LibraryGeometricObject\SquareGeometricObjectTest\obj\Debug\SquareGeometricObjectTest.dll
+C:\Users\A.Tikhonov\Desktop\geometry\geometry\LibraryGeometricObject\SquareGeometricObjectTest\obj\Debug\SquareGeometricObjectTest.pdb
+C:\Users\A.Tikhonov\Desktop\geometry\geometry\LibraryGeometricObject\SquareGeometricObjectTest\bin\Debug\SquareGeometricObject.dll
+C:\Users\A.Tikhonov\Desktop\geometry\geometry\LibraryGeometricObject\SquareGeometricObjectTest\bin\Debug\SquareGeometricObject.pdb

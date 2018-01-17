@@ -1,0 +1,15 @@
+C:\Users\A.Tikhonov\Desktop\geometry\LibraryGeometricObject\GeometricObject\bin\Debug\GeometricObject.dll
+C:\Users\A.Tikhonov\Desktop\geometry\LibraryGeometricObject\GeometricObject\bin\Debug\GeometricObject.pdb
+C:\Users\A.Tikhonov\Desktop\geometry\LibraryGeometricObject\GeometricObject\obj\Debug\SquareGeometricObject.csprojResolveAssemblyReference.cache
+C:\Users\A.Tikhonov\Desktop\geometry\LibraryGeometricObject\GeometricObject\obj\Debug\GeometricObject.dll
+C:\Users\A.Tikhonov\Desktop\geometry\LibraryGeometricObject\GeometricObject\obj\Debug\GeometricObject.pdb
+C:\Users\A.Tikhonov\Desktop\geometry\geometry\LibraryGeometricObject\GeometricObject\obj\Debug\SquareGeometricObject.csprojResolveAssemblyReference.cache
+C:\Users\A.Tikhonov\Desktop\geometry\geometry\LibraryGeometricObject\GeometricObject\bin\Debug\SquareGeometricObject.dll
+C:\Users\A.Tikhonov\Desktop\geometry\geometry\LibraryGeometricObject\GeometricObject\bin\Debug\SquareGeometricObject.pdb
+C:\Users\A.Tikhonov\Desktop\geometry\geometry\LibraryGeometricObject\GeometricObject\obj\Debug\SquareGeometricObject.dll
+C:\Users\A.Tikhonov\Desktop\geometry\geometry\LibraryGeometricObject\GeometricObject\obj\Debug\SquareGeometricObject.pdb
+C:\Users\A.Tikhonov\Desktop\geometry\geometry\LibraryGeometricObject\SquareGeometricObject\bin\Debug\SquareGeometricObject.dll
+C:\Users\A.Tikhonov\Desktop\geometry\geometry\LibraryGeometricObject\SquareGeometricObject\bin\Debug\SquareGeometricObject.pdb
+C:\Users\A.Tikhonov\Desktop\geometry\geometry\LibraryGeometricObject\SquareGeometricObject\obj\Debug\SquareGeometricObject.csprojResolveAssemblyReference.cache
+C:\Users\A.Tikhonov\Desktop\geometry\geometry\LibraryGeometricObject\SquareGeometricObject\obj\Debug\SquareGeometricObject.dll
+C:\Users\A.Tikhonov\Desktop\geometry\geometry\LibraryGeometricObject\SquareGeometricObject\obj\Debug\SquareGeometricObject.pdb
